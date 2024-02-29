@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\bin\Debug\net8.0\Inherity.exe
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\bin\Debug\net8.0\Inherity.deps.json
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\bin\Debug\net8.0\Inherity.runtimeconfig.json
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\bin\Debug\net8.0\Inherity.dll
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\bin\Debug\net8.0\Inherity.pdb
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.dll
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\refint\Inherity.dll
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.pdb
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\Inherity.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Home TAsk 29.02\Inherity\obj\Debug\net8.0\ref\Inherity.dll
